@@ -2,11 +2,11 @@
 
 namespace UdemyCompleteCsharp_SearchAlgo
 {
-    class Program
+    class Intro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
