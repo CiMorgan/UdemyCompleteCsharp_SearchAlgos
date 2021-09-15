@@ -1,0 +1,13 @@
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\obj\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.csprojAssemblyReference.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\obj\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.AssemblyInfoInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\obj\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.AssemblyInfo.cs
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\obj\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\bin\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.exe
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\bin\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.deps.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\bin\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.runtimeconfig.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\bin\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.runtimeconfig.dev.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\bin\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\bin\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\obj\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\obj\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\UdemyCompleteCsharp_SearchAlgo\obj\Debug\netcoreapp3.1\UdemyCompleteCsharp_SearchAlgo.genruntimeconfig.cache
