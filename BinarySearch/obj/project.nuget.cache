@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEK6cglmfKx7lQXPHCnXuuW6kYhi5mAiNvM/YDmocnC1pBXdlgGCNDlGUsRRurkPAwdGcdHXWBQ+dFE+HsGkew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camor\\source\\repos\\UdemyCompleteCsharp_SearchAlgo\\BinarySearch\\BinarySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
