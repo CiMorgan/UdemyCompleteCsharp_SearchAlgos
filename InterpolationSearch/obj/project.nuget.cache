@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WeU14scVd7KN9c2IWvPxnLiSByOAExJbibG0tJ5PzuDumL760VlTOuEEUVaQmHLZOJsw4eONWjWn5sS7qVKsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camor\\source\\repos\\UdemyCompleteCsharp_SearchAlgo\\InterpolationSearch\\InterpolationSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
