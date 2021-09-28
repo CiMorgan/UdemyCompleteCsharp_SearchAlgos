@@ -23,14 +23,16 @@ namespace DepthFirstTraversal
             e.SetLeft(f);
             e.SetRight(g);
 
-            DepthFirstSearchTraversalOnTree(e);
+            DepthFirstSearchTraversalOnTree(c);
         }
         public class Node
         {
             public int data;
             public Node right;
             public Node left;
+            public List<object> Neighbors { get; set; }
 
+            public Node() { }
             public Node(int value)
             {
                 this.data = value;
@@ -47,6 +49,23 @@ namespace DepthFirstTraversal
             {
                 left = node;
             }
+        }
+
+        public class Graph
+        {
+            public int NumberOfVertices { get; set; }
+            public List<Node> Vertices { get; set; }
+            public Graph(int size)
+            {
+                NumberOfVertices = size;
+                Vertices = new List<Node>();
+
+                for (int i = 0; i< NumberOfVertices; i++)
+                {
+                    Vertices[i] = new Node();
+                }
+            }
+
         }
         static void DepthFirstSearchTraversalOnTree(Node root)
         {

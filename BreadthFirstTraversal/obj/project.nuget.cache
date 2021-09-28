@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9Y8cZqwnO5XrnS9lKbtdUt4IMyOXwIe4m92hLZ6K3PJCNdlfqp5kvhU1nb+8r+RpCGjppvxh7P8uhwOYVb41g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camor\\source\\repos\\UdemyCompleteCsharp_SearchAlgo\\BreadthFirstTraversal\\BreadthFirstTraversal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
