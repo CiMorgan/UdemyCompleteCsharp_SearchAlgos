@@ -6,13 +6,49 @@ namespace DepthFirstTraversal
 
     public class Program
     {
+        public static void Main(string[] args)
+        {
+            Node a = new Node(1);
+            Node b = new Node(2);
+            Node c = new Node(3);
+            Node d = new Node(4);
+            Node e = new Node(5);
+            Node f = new Node(6);
+            Node g = new Node(7);
+
+            a.SetLeft(b);
+            a.SetRight(c);
+            b.SetLeft(d);
+            c.SetLeft(e);
+            e.SetLeft(f);
+            e.SetRight(g);
+
+            DepthFirstSearchTraversalOnTree(e);
+        }
         public class Node
         {
             public int data;
             public Node right;
             public Node left;
+
+            public Node(int value)
+            {
+                this.data = value;
+            }
+            public void SetValue(int value)
+            {
+                this.data = value;
+            }
+            public void SetRight(Node node)
+            {
+                right = node;
+            }
+            public void SetLeft(Node node)
+            {
+                left = node;
+            }
         }
-        public void DepthFirstSearchTraversalOnTree(Node root)
+        static void DepthFirstSearchTraversalOnTree(Node root)
         {
             Stack<Node> nodes = new Stack<Node>();
             nodes.Push(root);
@@ -60,9 +96,6 @@ namespace DepthFirstTraversal
         //    }
         //    return visited;
         //}
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+
     }
 }
