@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+75CUqcygOfv1E6SMgWhlv2i9Kza9IHK/suFRnWWfxNAt6L8QPiVxzp+eKsaU0sfeu7K4RPjtw6MV43i8BQvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camor\\source\\repos\\UdemyCompleteCsharp_SearchAlgo\\TraversalTree\\TraversalTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
