@@ -1,0 +1,13 @@
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\bin\Debug\netcoreapp3.1\TraversalTree.exe
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\bin\Debug\netcoreapp3.1\TraversalTree.deps.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\bin\Debug\netcoreapp3.1\TraversalTree.runtimeconfig.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\bin\Debug\netcoreapp3.1\TraversalTree.runtimeconfig.dev.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\bin\Debug\netcoreapp3.1\TraversalTree.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\bin\Debug\netcoreapp3.1\TraversalTree.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\obj\Debug\netcoreapp3.1\TraversalTree.csprojAssemblyReference.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\obj\Debug\netcoreapp3.1\TraversalTree.AssemblyInfoInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\obj\Debug\netcoreapp3.1\TraversalTree.AssemblyInfo.cs
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\obj\Debug\netcoreapp3.1\TraversalTree.csproj.CoreCompileInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\obj\Debug\netcoreapp3.1\TraversalTree.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\obj\Debug\netcoreapp3.1\TraversalTree.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\TraversalTree\obj\Debug\netcoreapp3.1\TraversalTree.genruntimeconfig.cache
