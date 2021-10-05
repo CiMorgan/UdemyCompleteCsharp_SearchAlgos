@@ -1,0 +1,13 @@
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\bin\Debug\netcoreapp3.1\BreadthFirstTraversal.exe
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\bin\Debug\netcoreapp3.1\BreadthFirstTraversal.deps.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\bin\Debug\netcoreapp3.1\BreadthFirstTraversal.runtimeconfig.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\bin\Debug\netcoreapp3.1\BreadthFirstTraversal.runtimeconfig.dev.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\bin\Debug\netcoreapp3.1\BreadthFirstTraversal.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\bin\Debug\netcoreapp3.1\BreadthFirstTraversal.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\obj\Debug\netcoreapp3.1\BreadthFirstTraversal.csprojAssemblyReference.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\obj\Debug\netcoreapp3.1\BreadthFirstTraversal.AssemblyInfoInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\obj\Debug\netcoreapp3.1\BreadthFirstTraversal.AssemblyInfo.cs
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\obj\Debug\netcoreapp3.1\BreadthFirstTraversal.csproj.CoreCompileInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\obj\Debug\netcoreapp3.1\BreadthFirstTraversal.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\obj\Debug\netcoreapp3.1\BreadthFirstTraversal.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\BreadthFirstTraversal\obj\Debug\netcoreapp3.1\BreadthFirstTraversal.genruntimeconfig.cache
