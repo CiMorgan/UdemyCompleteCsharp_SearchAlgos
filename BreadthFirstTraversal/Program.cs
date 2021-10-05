@@ -52,6 +52,36 @@ namespace BreadthFirstTraversal
                 }
             }
         }
+
+        //public HashSet<int> BreadthFirstTraversalOnGraph(Node root)
+        //{
+        //    HashSet<int> visited = new HashSet<int>();
+        //    if (!graph.AdjacencyList.ContainsKey(root))
+        //    {
+        //        return visited;
+        //    }
+        //    Queue<int> q = new Queue<int>();
+        //    q.Enqueue(root.data);
+        //    while (q.Count > 0)
+        //    {
+        //        int vertex = q.Dequeue();
+        //        if (visited.Contains(vertex))
+        //        {
+        //            continue;
+        //        }
+        //        visited.Add(vertex);
+        //        foreach(var neighbor in graph.AdjacencyList[vertex])
+        //        {
+        //            if (!visited.Contains(neighbor))
+        //            {
+        //                q.Enqueue(neighbor);
+        //            }
+        //        }
+        //    }
+        //    return visited;
+
+
+        //}
         public static void Main(string[] args)
         {
             Node a = new Node(1);
@@ -69,7 +99,7 @@ namespace BreadthFirstTraversal
             e.SetLeft(f);
             e.SetRight(g);
 
-            BreadthFirstTraversalOnTree(c);
+            BreadthFirstTraversalOnTree(a);
 
             //Node one = new Node(1);
             //Node two = new Node(2);
