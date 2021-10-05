@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yulbr3U3TPgLAEVZFqhHHZr2Od42sx4DP/aH//HX4MP+1gkNH65QbTfBWW1A4eQINHoPJYHY1RPcZcQIJFZM3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camor\\source\\repos\\UdemyCompleteCsharp_SearchAlgo\\Selection_Sort\\Selection_Sort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

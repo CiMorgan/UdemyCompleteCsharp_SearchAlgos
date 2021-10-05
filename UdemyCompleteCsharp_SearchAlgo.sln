@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstTraversal", "Br
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraversalTree", "TraversalTree\TraversalTree.csproj", "{DD1D2286-4909-4094-A356-7F49886EF947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_Sort", "Selection_Sort\Selection_Sort.csproj", "{0299B403-4FEE-4556-89EC-944993F3F754}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DD1D2286-4909-4094-A356-7F49886EF947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD1D2286-4909-4094-A356-7F49886EF947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD1D2286-4909-4094-A356-7F49886EF947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0299B403-4FEE-4556-89EC-944993F3F754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0299B403-4FEE-4556-89EC-944993F3F754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0299B403-4FEE-4556-89EC-944993F3F754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0299B403-4FEE-4556-89EC-944993F3F754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
