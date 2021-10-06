@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ijFZ0TKhYEY1kHD2hb5Zi9dTA8bEX3xd0M3ruPPqSIaCjXaKw69jINxD5bMFcJy6MEVuqVLUmtT16ogrxdRgTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camor\\source\\repos\\UdemyCompleteCsharp_SearchAlgo\\BubbleSort\\BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
