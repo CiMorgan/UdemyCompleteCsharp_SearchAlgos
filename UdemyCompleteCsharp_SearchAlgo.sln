@@ -7,17 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyCompleteCsharp_SearchA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{54089D18-3AF3-4B86-869D-D7BD5959DF54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationSearch", "InterpolationSearch\InterpolationSearch.csproj", "{E8860984-4EE9-436A-A5A3-5B60E5B3DE67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpolationSearch", "InterpolationSearch\InterpolationSearch.csproj", "{E8860984-4EE9-436A-A5A3-5B60E5B3DE67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstTraversal", "DepthFirstTraversal\DepthFirstTraversal.csproj", "{E9928EF5-60C5-4827-AED3-2668903267AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthFirstTraversal", "DepthFirstTraversal\DepthFirstTraversal.csproj", "{E9928EF5-60C5-4827-AED3-2668903267AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstTraversal", "BreadthFirstTraversal\BreadthFirstTraversal.csproj", "{A0C26B2E-4F59-4086-998B-7785411C51CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreadthFirstTraversal", "BreadthFirstTraversal\BreadthFirstTraversal.csproj", "{A0C26B2E-4F59-4086-998B-7785411C51CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraversalTree", "TraversalTree\TraversalTree.csproj", "{DD1D2286-4909-4094-A356-7F49886EF947}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TraversalTree", "TraversalTree\TraversalTree.csproj", "{DD1D2286-4909-4094-A356-7F49886EF947}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_Sort", "Selection_Sort\Selection_Sort.csproj", "{0299B403-4FEE-4556-89EC-944993F3F754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selection_Sort", "Selection_Sort\Selection_Sort.csproj", "{0299B403-4FEE-4556-89EC-944993F3F754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{D693B30B-7260-46CD-AA65-FF0453D980D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{D693B30B-7260-46CD-AA65-FF0453D980D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{CEC7E730-347A-4932-8FA7-9ADACE6ABFA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D693B30B-7260-46CD-AA65-FF0453D980D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D693B30B-7260-46CD-AA65-FF0453D980D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D693B30B-7260-46CD-AA65-FF0453D980D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC7E730-347A-4932-8FA7-9ADACE6ABFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC7E730-347A-4932-8FA7-9ADACE6ABFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC7E730-347A-4932-8FA7-9ADACE6ABFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC7E730-347A-4932-8FA7-9ADACE6ABFA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
