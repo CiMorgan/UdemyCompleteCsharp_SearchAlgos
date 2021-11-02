@@ -6,7 +6,12 @@ namespace MergeSort
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr = new int[] { 9, -3, 5, 2, 6, -8, -6, 1, 3 };
+            int[] x = mergeSort(arr);
+            foreach (int i in x)
+            {
+                Console.Write(i + " ");
+            }
         }
 
         public static int[] mergeSort(int[] array)
@@ -34,7 +39,7 @@ namespace MergeSort
                 left[i] = array[i];
             }
             int x = 0;
-            for (int j=midPoint; j<array.Length, j++)
+            for (int j=midPoint; j<array.Length; j++)
             {
                 right[x] = array[j];
                 x++;
@@ -50,6 +55,37 @@ namespace MergeSort
         {
             int resultLength = right.Length + left.Length;
             int[] result = new int[resultLength];
+            int indexLeft = 0, indexRight = 0, indexResult = 0;
+            while(indexLeft<left.Length || indexRight < right.Length)
+            {
+                if(indexLeft < left.Length && indexRight < right.Length)
+                {
+                    if(left[indexLeft] <= right[indexRight])
+                    {
+                        result[indexResult] = left[indexLeft];
+                        indexLeft++;
+                        indexResult++;
+                    }
+                    else
+                    {
+                        result[indexResult] = right[indexRight];
+                        indexRight++;
+                        indexResult++;
+                    }
+                }
+                else if(indexLeft <left.Length)
+                {
+                    result[indexResult] = left[indexLeft];
+                    indexLeft++;
+                    indexResult++;
+                }
+                else if (indexRight < right.Length)
+                {
+                    result[indexResult] = right[indexRight];
+                    indexRight++;
+                    indexResult++;
+                }
+            }
 
             return result;
 
