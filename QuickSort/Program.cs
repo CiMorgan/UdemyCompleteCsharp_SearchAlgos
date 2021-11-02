@@ -7,7 +7,7 @@ namespace QuickSort
         static void Main(string[] args)
         {
             int[] arr = new int[] { 9, -3, 5, 2, 6, -8, -6, 1, 3 };
-            quickSort(arr, 1, 2);
+            quickSort(arr, 0, arr.Length-1);
             foreach (int i in arr)
             {
                 Console.Write(i + " ");
@@ -26,16 +26,22 @@ namespace QuickSort
                 }
                 while(arr[right] > pivot)
                 {
-                    Console.WriteLine("Decrease right");
                     right--;
                 }
                 if (left < right)
                 {
                     if(arr[left] == arr[right])
                     {
-                        Console.WriteLine("inner if");
                         return right;
                     }
+
+                    int temp = arr[left];
+                    arr[left] = arr[right];
+                    arr[right] = temp;
+                }
+                else
+                {
+                    return right;
                 }
 
             }
