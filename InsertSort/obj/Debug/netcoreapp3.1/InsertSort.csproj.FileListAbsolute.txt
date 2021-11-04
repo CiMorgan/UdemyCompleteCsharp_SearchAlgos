@@ -1,0 +1,13 @@
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.exe
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.deps.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.runtimeconfig.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.runtimeconfig.dev.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.csprojAssemblyReference.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.AssemblyInfoInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.AssemblyInfo.cs
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.csproj.CoreCompileInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.genruntimeconfig.cache
