@@ -6,7 +6,12 @@ namespace HeapSort
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr = new int[6] { 3, 1, 7, 4, 6, 0 };
+            heapSort(arr);
+            foreach (int i in arr)
+            {
+                Console.Write(i + " ");
+            }
         }
 
         static int[] heapSort(int[] arr)
@@ -21,6 +26,7 @@ namespace HeapSort
                 swap(arr, 0, i);
                 heapify(arr, i, 0);
             }
+            return arr;
         }
 
         static void heapify(int[] arr, int n, int i)
@@ -42,8 +48,13 @@ namespace HeapSort
                 swap(arr, i, largest);
                 heapify(arr, n, largest);
             }
-
-
+        }
+        
+        static void swap(int[] arr, int element1, int element2)
+        {
+            int swap = arr[element1];
+            arr[element1] = arr[element2];
+            arr[element2] = swap;
         }
     }
 }
