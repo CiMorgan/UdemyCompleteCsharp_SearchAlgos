@@ -6,7 +6,7 @@ namespace InsertSort
     {
         public static void Main(string[] args)
         {
-            int[] arr = new int[] { 9, -3, 5, 2, 6, -8, -6, 1, 3 };
+            int[] arr = new int[] { 8, 12, -15, 0, 5, -2, 3, -5 };
             int[] x = insertionSort(arr);
             foreach (int i in x)
             {

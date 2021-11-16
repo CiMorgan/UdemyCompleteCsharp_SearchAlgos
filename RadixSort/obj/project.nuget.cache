@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "47u0MHAodDRoz3WI/DMDCZW6kNZJjWfcwk2CMdGFdNTJq75GnoOFGQO8qdn5kWV659Of0vzQK5wBprB2UL3IIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camor\\source\\repos\\UdemyCompleteCsharp_SearchAlgo\\RadixSort\\RadixSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
