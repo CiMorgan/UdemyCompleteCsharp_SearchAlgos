@@ -1,0 +1,4 @@
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csprojAssemblyReference.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfoInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfo.cs
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csproj.CoreCompileInputs.cache
