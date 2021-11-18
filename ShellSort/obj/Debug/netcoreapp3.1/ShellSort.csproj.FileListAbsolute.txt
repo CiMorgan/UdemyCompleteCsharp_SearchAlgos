@@ -1,0 +1,13 @@
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csprojAssemblyReference.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.exe
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.deps.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\camor\source\repos\UdemyCompleteCsharp_SearchAlgo\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.genruntimeconfig.cache

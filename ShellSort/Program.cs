@@ -6,24 +6,35 @@ namespace ShellSort
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arrOrg = new int[] { 4, 8, 1, 0, 2, 7, 11, 6 };
+            shellSort(arrOrg);
+
+
         }
 
-        int[] shellSort(int[] arr)
+        static int[] shellSort(int[] arr)
         {
             int length = arr.Length;
-            for (int gap=length/2; gap>0; gap/=2)
+            int gap = length/2;
+            int temp, i, j;
+            while (gap > 0)
             {
-                for (int i=gap; i<length; i+=1)
+                for (i=gap; i<length; i++)
                 {
-                    int temp = arr[i];
-                    int j;
-                    for(j=1; j>=gap && arr[j-gap]>temp[]; j-=gap)
+                    temp = arr[i];
+                    j=i;
+                    while(j >= gap && arr[j-gap]>temp)
                     {
                         arr[j] = arr[j - gap];
+                        j = j - gap;
                     }
                     arr[j] = temp;
                 }
+                gap = gap / 2;
+            }
+            foreach (int a in arr)
+            {
+                Console.Write(a + " ");
             }
             return arr;
         }
